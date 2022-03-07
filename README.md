@@ -1,4 +1,4 @@
-# Android Internship 2022 - Test Round - SupremeTech
+# Android Internship 2022 - Test Round 2 - SupremeTech
 
 [Please click this](https://coderbyte.com/sl-candidate?promo=supremetechcoltd-j377u:algorithm-assessment-1vp6bd6z2l) to start the Coderbyte Test.
 
